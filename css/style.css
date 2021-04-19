@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    background-image: url(../img/bbb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+header{
+    
+}
+.logo{
+      width: 50%;
+    margin: 0px auto;
+    display: block;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+}
+.abt-logo{
+    
+}
+.abt-nav {
+    
+}
+.abt-nav ul {
+        margin: 50px 0px;
+}
+.abt-nav ul li {
+    list-style: none;
+    display: inline-block;
+}
+ .abt-nav ul li a {
+color: white;
+    margin: 0px 27px;
+    font-size: 17px;
+     text-decoration: none;
+}
+.for-box{
+    
+}
+.abt-box{
+    
+}
+
+{
+      color: white;
+    width: 95%;
+    background-color: #80808038;
+    padding: 12px 0px;
+    /* padding-left: 3px; */
+    text-align: center;
+    margin-left: 62px;
+    font-size: 53px;
+    margin-top: 100px;
+    
+}
+.back-box{
+margin-left: 60px;
+    background-color: #80808078;
+    color: white;
+    width: 97%;
+    font-size: 57px;
+    padding: 0px 23px;
+    padding-bottom: 5px;
+}
+.abt-box p {
+       font-size: 15px;
+    margin-left: 60px;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 80px;
+}
+.line{
+        border-bottom: 2px solid white;
+    display: block;
+    width: 4%;
+    margin-left: 60px;
+}
+
+.btn-con{
+          background: transparent;
+    color: white;
+    padding: 5px 77px;
+    border: 1px solid white;
+    font-size: 24px;
+    margin-left: 60px;
+    margin-top: 25px;
+    margin-bottom: 120px; 
+}
+.btn-con:hover{
+    color: cornflowerblue;
+    transition: 0.8s;
+}
+.cool{
+    
+}
+
+
+
+
+
+
+/*media quary*/
+
+@media(min-width: 320px) and (max-width:576px){
+    .btn-con{
+            padding: 1px 20px;
+    font-size: 8px;
+    margin-left: 0px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+    }
+    .abt-box p {
+    font-size: 8px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    width: 40%;
+    }
+    .back-box{
+          margin-left: 0px;
+width: 40%;
+font-size: 12px;
+padding: 0px 0px;
+        margin-top: 20px;
+    }
+    .line{
+        margin-left: 0px;
+margin-top: 12px;
+    }
+    .abt-nav nav {
+margin: -47px 0px;
+    }
+    .abt-nav ul{
+  
+    }
+    .abt-nav ul li{
+        
+    } 
+    .abt-nav ul li a{
+font-size: 6px;
+    margin: 0px 0px;
+    }
+    .logo{
+     margin-top: 10px;
+margin-left: 0px;
+width: 69%;
+display: block;
+    }
+    .abt-logo{
+    width: 50%;
+    }
+    .abt-nav{
+width: 50%;
+    }
+}
+@media (min-width: 576.01px) and (max-width: 768px){
+ 
+}
+
+@media(min-width: 768.01px) and (max-width: 992px){
+   
+}
+@media (min-width: 992.01px) and (max-width: 1200px){
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
